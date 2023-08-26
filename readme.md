@@ -31,7 +31,7 @@ Instructions:
 
 4. Inside `Resources` run `Packages_installer.sh`. This will install all the required packages, It needs to run once.
 
-5. Now in same folder, open `input.json` file and fill the details according to API documentation as required and save the same file by pressing `command + c`.
+5. Now in same folder, open `input.json` file and fill the details according to API documentation as required and save the same file by pressing `command + c`. Read input_file_filling_doc.md for more information about fields.
 
 6. Now run the application.
 

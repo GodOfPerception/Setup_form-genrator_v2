@@ -19,6 +19,8 @@ With the help of this script, you may create setup forms with minimal user input
 
 Your system has Python 3.9 or a later version installed.
 
+This tool is created only for macOs.
+
 Instructions:
 
 1. Extract the application on `Desktop`. Don't Extract it on any other location.
